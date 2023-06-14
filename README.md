@@ -17,27 +17,31 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando o projeto
 
-# Clone este repositório
+### Clone este repositório
 
 ### `
 
 $ git clone https://github.com/deniseschirmer/gpt
 
-# Acesse a pasta do projeto no terminal/cmd
+####
 
-# Instale as dependências
+Acesse a pasta do projeto no terminal/cmd
+
+#### Instale as dependências
 
 $ yarn
 
-# ou
+####
+
+ou
 
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+#### Execute a aplicação em modo de desenvolvimento
 
 $ yarn dev
 
-# ou
+#### ou
 
 $ npm run dev
 `
