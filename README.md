@@ -1,6 +1,11 @@
 <h1 style="text-align: center; font-weight: bold;">GPT</h1>
 # Landing page GPT
 ## Em construção
+
+### Figma: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?type=design&node-id=0-1&t=0B5ZWKEBFeo2gClN-0
+
+### Figma:
+
 ### 🛠 Tecnologias
 
 #### As seguintes ferramentas foram usadas na construção do projeto:
